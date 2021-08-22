@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-11-20T17:36:49.5231286Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "Wijndoos"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "4b93e592-20ef-40bc-a4bb-f087e9e575df"
+    }
+  }
+}
